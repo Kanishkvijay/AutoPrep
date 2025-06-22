@@ -1,0 +1,11 @@
+﻿CustomerID,Age,Gender,City,Salary,Churn
+1,25,Male,Amsterdam,50000,No
+2,30,Female,Berlin,60000,No
+,,Male,Atlanta,55000,Yes
+4,45,,Barcelona,75000,No
+2,30,Female,Berlin,60000,No
+5,50,Male,Athens,80000,No
+6,,Female,Paris,65000,Yes
+7,35,Male,Amsterdam,52000,No
+8,40,Female,Berlin,70000,No
+9,28,,Atlanta,58000,No
