@@ -68,7 +68,7 @@ To develop a fully modular AI system that:
 |----------------|---------------------------------------------|
 | Frontend       | Streamlit                                   |
 | Backend        | Python (Pandas, Scikit-learn, Regex)        |
-| LLM Support    | Groq API or OpenAI                          |
+| LLM Support    | Groq API                                    |
 | Agents & Logic | Modular Python classes with LangGraph       |
 | Optional Tools | FAISS, LangChain (future enhancement)       |
 
